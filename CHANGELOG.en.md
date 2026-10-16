@@ -12,6 +12,10 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 ## [Unreleased]
 
+### Fixed
+
+- Added missing Ziranma double-pinyin support for subscribed vocabularies. The next deployment generates and mounts Ziranma tables for existing subscriptions.
+
 ## [0.1.9] - 2026-10-13
 
 > Stable release · Developer ID signed · notarized by Apple
